@@ -2,7 +2,8 @@
 UMaT MINI PROJEC. EL162 (OBJECT ORIENTED PROGRAMMING)
 
 
-PROJECT OVERVIEW
+      ##PROJECT OVERVIEW
+
 The UMaT Smart Device Management System is an Object Oriented Programming (OOP) project developed using Python. The system is designed to manage different smart devices by allowing users to monitor and control their operations through a simple menu-driven interface. The project demonstrate important OOP concepts including classes and objects, construtors, inheritance, encapsulation, getters and setters, methods and the use of "super()"
 
 ## PROJECT DESCRIPTION
