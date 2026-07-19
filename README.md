@@ -1,2 +1,2 @@
 # Smart-device-management-system
-UMaT MINI PROJECT.
+UMaT MINI PROJEC. EL162 (OBJECT ORIENTED PROGRAMMING)
